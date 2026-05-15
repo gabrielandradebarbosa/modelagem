@@ -1,0 +1,6 @@
+git init
+git config --global user.name "gabrielandradebarbosa"
+git config --global user.email "0000111227053xsp@aluno.educacao.sp.gov.br
+git branch -M main
+git remote add origin 
+git pull origin main
