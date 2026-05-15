@@ -40,7 +40,7 @@ insert into db_join.vendas(quantidade, data_venda, id_produto)
 
 select * from db_join.vendas;
 
-
+-- teste
 
 
 
